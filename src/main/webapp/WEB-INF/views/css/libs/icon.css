@@ -1,0 +1,96 @@
+.icon-blank{
+	background:url('../../images/libs/blank.gif') no-repeat center center;
+}
+.icon-add{
+	background:url('../../images/libs/edit_add.png') no-repeat center center;
+}
+.icon-edit{
+	background:url('../../images/libs/pencil.png') no-repeat center center;
+}
+.icon-clear{
+	background:url('../../images/libs/clear.png') no-repeat center center;
+}
+.icon-remove{
+	background:url('../../images/libs/edit_remove.png') no-repeat center center;
+}
+.icon-save{
+	background:url('../../images/libs/filesave.png') no-repeat center center;
+}
+.icon-cut{
+	background:url('../../images/libs/cut.png') no-repeat center center;
+}
+.icon-ok{
+	background:url('../../images/libs/ok.png') no-repeat center center;
+}
+.icon-no{
+	background:url('../../images/libs/no.png') no-repeat center center;
+}
+.icon-cancel{
+	background:url('../../images/libs/cancel.png') no-repeat center center;
+}
+.icon-reload{
+	background:url('../../images/libs/reload.png') no-repeat center center;
+}
+.icon-search{
+	background:url('../../images/libs/search.png') no-repeat center center;
+}
+.icon-print{
+	background:url('../../images/libs/print.png') no-repeat center center;
+}
+.icon-help{
+	background:url('../../images/libs/help.png') no-repeat center center;
+}
+.icon-undo{
+	background:url('../../images/libs/undo.png') no-repeat center center;
+}
+.icon-redo{
+	background:url('../../images/libs/redo.png') no-repeat center center;
+}
+.icon-back{
+	background:url('../../images/libs/back.png') no-repeat center center;
+}
+.icon-sum{
+	background:url('../../images/libs/sum.png') no-repeat center center;
+}
+.icon-tip{
+	background:url('../../images/libs/tip.png') no-repeat center center;
+}
+.icon-filter{
+	background:url('../../images/libs/filter.png') no-repeat center center;
+}
+.icon-man{
+	background:url('../../images/libs/man.png') no-repeat center center;
+}
+.icon-lock{
+	background:url('../../images/libs/lock.png') no-repeat center center;
+}
+.icon-more{
+	background:url('../../images/libs/more.png') no-repeat center center;
+}
+
+
+.icon-mini-add{
+	background:url('../../images/libs/mini_add.png') no-repeat center center;
+}
+.icon-mini-edit{
+	background:url('../../images/libs/mini_edit.png') no-repeat center center;
+}
+.icon-mini-refresh{
+	background:url('../../images/libs/mini_refresh.png') no-repeat center center;
+}
+
+.icon-large-picture{
+	background:url('../../images/libs/large_picture.png') no-repeat center center;
+}
+.icon-large-clipart{
+	background:url('../../images/libs/large_clipart.png') no-repeat center center;
+}
+.icon-large-shapes{
+	background:url('../../images/libs/large_shapes.png') no-repeat center center;
+}
+.icon-large-smartart{
+	background:url('../../images/libs/large_smartart.png') no-repeat center center;
+}
+.icon-large-chart{
+	background:url('../../images/libs/large_chart.png') no-repeat center center;
+}
